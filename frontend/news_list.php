@@ -26,7 +26,7 @@ $total_rows = count($data);
     <meta name="keywords" content="">
 
     <title>
-        Cake House : 帶給你最天然健康的幸福滋味
+       最新消息 | Cake House : 帶給你最天然健康的幸福滋味
     </title>
 
     <meta name="keywords" content="">
